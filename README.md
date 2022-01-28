@@ -1,2 +1,2 @@
-# HRMS-dev
-HRMS dev environment
+# hrms-dev
+hrms dev environment
